@@ -1,0 +1,8 @@
+Surface Plane
+Video				Done		Replaced one of the images
+Animations			Done		Underlines
+Advanced Positioning		Done		Sticky Header
+Dark Mode			Done		Dark Mode main page
+Scroll Animations		Done		ID/Scroll Behavior
+Geluid				Done		Mario geluid als je op het logo klikt		
+Meer micro-interacties		Done		Dark Mode, Geluid
